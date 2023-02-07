@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#image-accueil{
+background-image: url("https://api.lorem.space/image/fashion");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+body{
+    font-family: roboto;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: montserrat;
+}
