@@ -4,7 +4,7 @@
 		id=""
 	>
 		<figure class="">
-			<img src="https://api.lorem.space/image/fashion" alt="" class="w-full" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869298/Z%C3%A9phyr/pexels-fauxels-3184419_ki5eiw.jpg" alt="" class="w-full" />
 		</figure>
 		<section class="flex flex-col gap-5 ">
 			<h1 class="text-3xl">Nos formations</h1>
@@ -20,7 +20,7 @@
 		id=""
 	>
 		<figure class="order-1 md:order-2">
-			<img src="https://api.lorem.space/image/fashion" alt="" class="w-full" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869296/Z%C3%A9phyr/pexels-fauxels-3184328_mqnjiu.jpg" alt="" class="w-full" />
 		</figure>
 		<section class="flex flex-col gap-10 order-2 md:order-1 ">
 			<div class="flex flex-col gap-5">
@@ -43,7 +43,7 @@
 		id=""
 	>
 		<figure class="">
-			<img src="https://api.lorem.space/image/fashion" alt="" class="w-full" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869291/Z%C3%A9phyr/pexels-fauxels-3184317_y9dn85.jpg" alt="" class="w-full" />
 		</figure>
 		<section class="flex flex-col gap-10  ">
 			<div class="flex flex-col gap-5">

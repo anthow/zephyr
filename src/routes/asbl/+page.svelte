@@ -2,7 +2,8 @@
 	<article class="w-12/12 h-1/2">
 		<figure class="w-full">
 			<img
-				src="https://res.cloudinary.com/liono/image/upload/c_crop,h_450,w_1440/v1673873817/Z%C3%A9phyr/pexels-matheus-bertelli-3856026_1_1_llmqbx.jpg"
+			src=
+			"https://res.cloudinary.com/liono/image/upload/c_crop,h_242,w_1600/v1675870438/Z%C3%A9phyr/image_sgvzft.png"
 				class="w-full"
 				alt="coucou"
 			/>
@@ -51,7 +52,7 @@
 			<div class="flex flex-col gap-5 text-center items-center">
 				<figure>
 					<img
-						src="https://api.lorem.space/image/face?w=250&h=250"
+						src="https://res.cloudinary.com/liono/image/upload/c_scale,h_250,w_250/v1675869293/Z%C3%A9phyr/pexels-karolina-grabowska-8528744_1_maoqts.jpg"
 						alt="coucou"
 						class="rounded-full"
 					/>
@@ -66,7 +67,7 @@
 			<div class="flex flex-col gap-5 text-center items-center">
 				<figure>
 					<img
-						src="https://api.lorem.space/image/face?w=250&h=250"
+						src="https://res.cloudinary.com/liono/image/upload/c_scale,h_250,w_250/v1675869287/Z%C3%A9phyr/pexels-andrea-piacquadio-774909_2_xjqov6.jpg"
 						alt="coucou"
 						class="rounded-full"
 					/>
@@ -81,7 +82,7 @@
 			<div class="flex flex-col gap-5 text-center items-center">
 				<figure>
 					<img
-						src="https://api.lorem.space/image/face?w=250&h=250"
+						src="https://res.cloudinary.com/liono/image/upload/c_scale,h_250,w_250/v1675869289/Z%C3%A9phyr/pexels-christina-morillo-1181686_1_kbevv9.jpg"
 						alt="coucou"
 						class="rounded-full"
 					/>
@@ -98,7 +99,7 @@
 	<article class="m-auto w-10/12 flex flex-col md:grid grid-cols-2 gap-10 md:gap-20">
 		<figure>
 			<img
-				src="https://res.cloudinary.com/liono/image/upload/c_crop,h_450,w_1440/v1673873817/Z%C3%A9phyr/pexels-matheus-bertelli-3856026_1_1_llmqbx.jpg"
+				src="https://res.cloudinary.com/liono/image/upload/v1675869299/Z%C3%A9phyr/pexels-fauxels-3183197_jpqfmb.jpg"
 				alt="coucou"
 				class="h-full"
 			/>

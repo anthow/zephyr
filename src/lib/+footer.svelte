@@ -1,38 +1,25 @@
 <footer class="flex flex-col gap-20">
-	<article class="w-10/12 m-auto  flex flex-row flex-wrap gap-10">
+	<article class="w-10/12 m-auto  grid grid-cols-5 items-center  gap-10">
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869284/Z%C3%A9phyr/vise-logo_kcbqt5.png" alt="" />
 		</figure>
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869284/Z%C3%A9phyr/Logo_Province_t27b09.jpg" alt="" />
 		</figure>
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869284/Z%C3%A9phyr/wallonie_n5edah.png" alt="" />
 		</figure>
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869284/Z%C3%A9phyr/roi_baudoin_t6t95w.png" alt="" />
 		</figure>
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869295/Z%C3%A9phyr/parcours_tajpgr.png" />
 		</figure>
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869285/Z%C3%A9phyr/maribel_goi8yq.jpg" />
 		</figure>
 		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
-		</figure>
-		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
-		</figure>
-		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
-		</figure>
-		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
-		</figure>
-		<figure>
-			<img src="https://api.lorem.space/image/fashion?w=150&h=150" />
-		</figure>
+			
 	</article>
 	<article class="bg-gray-600 ">
 		<section class="w-10/12 m-auto py-5 flex flex-col md:grid grid-cols-4 gap-10">

@@ -4,7 +4,7 @@
 		id=""
 	>
 		<figure class="">
-			<img src="https://api.lorem.space/image/fashion" alt="" class="w-full" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1673873817/Z%C3%A9phyr/pexels-matheus-bertelli-3856026_1_1_llmqbx.jpg" alt="" class="w-full" />
 		</figure>
 		<section class="flex flex-col gap-5 ">
 			<h1 class="text-3xl">Nos activités</h1>
@@ -20,7 +20,7 @@
 		id=""
 	>
 		<figure class="order-1 md:order-2">
-			<img src="https://api.lorem.space/image/fashion" alt="" class="w-full" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869291/Z%C3%A9phyr/pexels-cqfavocat-613508_nsmaci.jpg" alt="" class="w-full" />
 		</figure>
 		<section class="flex flex-col gap-10 order-2 md:order-1 ">
 			<div class="flex flex-col gap-5">
@@ -42,7 +42,7 @@
 		id=""
 	>
 		<figure class="">
-			<img src="https://api.lorem.space/image/fashion" alt="" class="w-full" />
+			<img src="https://res.cloudinary.com/liono/image/upload/v1675869301/Z%C3%A9phyr/pexels-mike-b-445849_qsapbt.jpg" alt="" class="w-full" />
 		</figure>
 		<section class="flex flex-col gap-10  ">
 			<div class="flex flex-col gap-5">

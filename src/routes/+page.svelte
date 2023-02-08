@@ -62,9 +62,12 @@
 					</div>
 				</div>
 				<figure>
-					<img src="https://api.lorem.space/image/fashion" />
+					<img
+						src="https://res.cloudinary.com/liono/image/upload/v1675869305/Z%C3%A9phyr/pexels-rui-dias-1472887_inei1q.jpg"
+						alt=""
+					/>
 				</figure>
-				<p class="italic">Acitvité</p>
+				<p class="italic">Activité</p>
 			</div>
 			<div class="flex flex-col p-5 gap-10 bg-gray-600 text-white">
 				<div class="flex flex-row gap-10 justify-between items-center">
@@ -78,11 +81,14 @@
 					</div>
 				</div>
 				<figure>
-					<img src="https://api.lorem.space/image/fashion" />
+					<img
+						src="https://res.cloudinary.com/liono/image/upload/v1675869291/Z%C3%A9phyr/pexels-cqfavocat-613508_nsmaci.jpg"
+						alt=""
+					/>
 				</figure>
 				<p class="italic">Acitvité</p>
 			</div>
-			<div class="flex flex-col p-5 gap-10 bg-gray-600 text-white">
+			<div class="flex flex-col h-full p-5 gap-10 bg-gray-600 text-white">
 				<div class="flex flex-row gap-10 justify-between items-center">
 					<h3 class="text-xl">titre de l'article</h3>
 					<div class="flex flex-col  text-center">
@@ -94,55 +100,10 @@
 					</div>
 				</div>
 				<figure>
-					<img src="https://api.lorem.space/image/fashion" />
-				</figure>
-				<p class="italic">Acitvité</p>
-			</div>
-			<div class="flex flex-col p-5 gap-10 bg-gray-600 text-white">
-				<div class="flex flex-row gap-10 justify-between items-center">
-					<h3 class="text-xl">titre de l'article</h3>
-					<div class="flex flex-col  text-center">
-						<p class="bg-orange-600 p-2">déc</p>
-						<div class="bg-orange-800 py-2 px-5 flex flex-col">
-							<p>12</p>
-							<p>Lun</p>
-						</div>
-					</div>
-				</div>
-				<figure>
-					<img src="https://api.lorem.space/image/fashion" />
-				</figure>
-				<p class="italic">Acitvité</p>
-			</div>
-			<div class="flex flex-col p-5 gap-10 bg-gray-600 text-white">
-				<div class="flex flex-row gap-10 justify-between items-center">
-					<h3 class="text-xl">titre de l'article</h3>
-					<div class="flex flex-col  text-center">
-						<p class="bg-orange-600 p-2">déc</p>
-						<div class="bg-orange-800 py-2 px-5 flex flex-col">
-							<p>12</p>
-							<p>Lun</p>
-						</div>
-					</div>
-				</div>
-				<figure>
-					<img src="https://api.lorem.space/image/fashion" />
-				</figure>
-				<p class="italic">Acitvité</p>
-			</div>
-			<div class="flex flex-col p-5 gap-10 bg-gray-600 text-white">
-				<div class="flex flex-row gap-10 justify-between items-center">
-					<h3 class="text-xl">titre de l'article</h3>
-					<div class="flex flex-col  text-center">
-						<p class="bg-orange-600 p-2">déc</p>
-						<div class="bg-orange-800 py-2 px-5 flex flex-col">
-							<p>12</p>
-							<p>Lun</p>
-						</div>
-					</div>
-				</div>
-				<figure>
-					<img src="https://api.lorem.space/image/fashion" />
+					<img
+						src="https://res.cloudinary.com/liono/image/upload/v1675869301/Z%C3%A9phyr/pexels-mike-b-445849_qsapbt.jpg"
+						alt=""
+					/>
 				</figure>
 				<p class="italic">Acitvité</p>
 			</div>
